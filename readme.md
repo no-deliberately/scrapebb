@@ -205,6 +205,10 @@ pip install -r requirements.txt
 
 ---
 
+## 参考代码
+https://github.com/SocialSisterYi/bilibili-API-collect
+
+
 ## License
 
 MIT
